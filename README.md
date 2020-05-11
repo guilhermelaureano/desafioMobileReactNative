@@ -14,3 +14,5 @@ A aplicação da continuedade ao desenvolvendo da aplicação para armazenar rep
 ### Funcionalidades
 
 - Listar os repositórios da API: apresenta uma lista com o campo title de todos os repositórios que estão cadastrados na API, as techs relacionadas, o número de curtidas e o botão para curtir.
+
+![](./screenshot.png)
